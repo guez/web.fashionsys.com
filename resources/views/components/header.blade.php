@@ -22,7 +22,7 @@
 
         {{-- Desktop Auth Buttons --}}
         <div class="hidden items-center gap-3 md:flex">
-            <a href="/login"
+            <a href="https://app.jivsoft.com/login" target="_blank"
                 class="bg-secondary text-secondary-foreground hover:bg-secondary/90 border-0 px-4 py-2 rounded-md text-sm font-medium">
                 Iniciar Sesión
             </a>
@@ -72,7 +72,7 @@
 
             <div class="flex flex-col gap-2 pt-2">
 
-                <a href="/login"
+                <a href="https://app.jivsoft.com/login" target="_blank"
                     class="bg-secondary text-secondary-foreground hover:bg-secondary/90 border-0 px-4 py-2 rounded-md text-center text-sm font-medium">
                     Iniciar Sesión
                 </a>
